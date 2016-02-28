@@ -3,7 +3,7 @@ package sort;
 public class Sort {
 
 	/**
-	 * 交换数组的两个值
+	 * 交换数组的两个值   
 	 * @param array   
 	 * @param i
 	 * @param j
